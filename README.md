@@ -7,6 +7,8 @@
 | 1. | [Intro](https://github.com/Sachet-theunknow/Demo/edit/main/README.md#intro) |
 | 2. | WHY and how |
 | 3. | No idea |
+| 4. | [Auth](File/auth/first la.md)
+| 5. | [Sql](File/sql/1-st-lab-sql.md) |
 
 > Note: This is a demo readme
 
