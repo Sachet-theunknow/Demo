@@ -1,3 +1,46 @@
+```
+ nmap -sV -sS -sC --script=vuln
+```
+
+```py
+print ("hello")
+a= hii
+```
+
+```xml
+<ossec_config>
+  <github>
+    <enabled>yes</enabled>
+    <interval>1m</interval>
+    <time_delay>1m</time_delay>
+    <curl_max_size>1M</curl_max_size>
+    <only_future_events>yes</only_future_events>
+    <api_auth>
+      <org_name><ORG_NAME></org_name>
+      <api_token><API_TOKEN></api_token>
+    </api_auth>
+    <api_parameters>
+      <event_type>all</event_type>
+    </api_parameters>
+  </github>
+</ossec_config>
+```
+
+## Hii we found 2 ports `SSH` and `HTTPS`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # <div align="center"> Wazuh</div>
 
 ## Index
